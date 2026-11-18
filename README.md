@@ -63,8 +63,7 @@ The analysis aims to identify important business patterns, highlight profitable 
 ## Kaggle Notebook
 Explore the complete analysis and interactive visualizations on Kaggle:
 
-[View Kaggle Notebook]([YOUR_KAGGLE_NOTEBOOK_LINK](https://www.kaggle.com/code/fadyawad/superstore-sales-analysis-eda))
-
+[View Kaggle Notebook](https://www.kaggle.com/code/fadyawad/superstore-sales-analysis-eda)
 ## Repository Structure
 ```text
 SuperStore_Sales_Analysis/
